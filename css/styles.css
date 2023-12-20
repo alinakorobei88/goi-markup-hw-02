@@ -53,6 +53,10 @@ ul, ol {
      color: #404BBF;
 }
 
+.address {
+    font-style: normal;
+}
+
 .address-list-item-link {
     font-weight: 400;
     font-style: normal;
