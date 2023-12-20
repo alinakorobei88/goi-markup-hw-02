@@ -13,6 +13,9 @@ a {text-decoration: none;}
 ul, ol {
     list-style: none;
 }
+
+/*-----------Header-----------*/
+
 .header {
     background: #FFFFFF;
 }
@@ -63,6 +66,8 @@ ul, ol {
 .address-list-item-link:focus{
      color: #404BBF;
 }
+
+/*------------------------*/
 
 .hero {
     background: #2E2F42;
