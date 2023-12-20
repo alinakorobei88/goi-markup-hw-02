@@ -6,6 +6,7 @@
     letter-spacing: 0,02em;
     font-weight: 400;
     color: #434455;
+    background-color: #FFFFFF;
 }
 a {text-decoration: none;}
 
@@ -51,6 +52,7 @@ ul, ol {
 
 .address-list-item-link {
     font-weight: 400;
+    font-style: normal;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0,02em;
@@ -76,6 +78,7 @@ ul, ol {
 }
 
 .hero-button {
+    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -115,8 +118,10 @@ ul, ol {
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
+    text-transform: capitalize;
     text-align: center;
     color: #2E2F42;
+    background-color: #FFFFFF;
 }
 
 .team-name {
@@ -131,7 +136,7 @@ ul, ol {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.02;
+    letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
 }
@@ -146,6 +151,7 @@ ul, ol {
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
+    text-transform: capitalize;
     color: #2E2F42;
 }
 
