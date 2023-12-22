@@ -134,6 +134,10 @@ ul, ol {
     background-color: #FFFFFF;
 }
 
+.team-list-item {
+    background: #FFFFFF;
+}
+
 
 .team-name {
     font-weight: 500;
