@@ -120,7 +120,7 @@ ul, ol {
 }
 
 .team {
-    background-color: #f4f4fd;
+    background-color: #F4F4FD;
 }
 
 .team-title {
@@ -131,6 +131,10 @@ ul, ol {
     text-transform: capitalize;
     text-align: center;
     color: #2E2F42;
+    background-color: #FFFFFF;
+}
+
+.leam-list-item {
     background-color: #FFFFFF;
 }
 
